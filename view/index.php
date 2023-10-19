@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="./img/SPAAL ico.ico"/>
+    <link rel="shortcut icon" href="./img/logotatu.ico"/>
     <title>Importação de arquivo DDA</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 </head>
@@ -14,8 +14,8 @@
     align-items: center;
     margin: 0 auto;
 }">
-    <h1>Importação de extrato</h1>
-    <img src="./img/LOGO SPAAL 2 JPG.jpg" alt="Logo da Empresa" style="height: 100px;
+    <h1 style="width: 200px; margin: 20px">Importação de extrato</h1>
+    <img src="./img/logotatu.png" alt="Logo da Empresa" style="height: 100px;
     width: auto;">
 </header>
 <main class="container" style="box-shadow: 0px 0px 4px #ccc; max-width:600px; padding: 20px;">
